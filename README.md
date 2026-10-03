@@ -1,43 +1,23 @@
-# Federico Lelli (federicowitz)
+# Hi, I'm Federico
 
-Ciao! Sono **Federico Lelli**, conosciuto online come **federicowitz**. Sono un ingegnere, docente e sviluppatore software appassionato di finanza, automazione e programmazione embedded.
+I'm **Federico Lelli**, aka **federicowitz**.
 
-🌐 **Sito Personale:** [federicolelli.com](https://federicolelli.com)
+I'm an engineer, teacher, software developer and musician. I like building things, breaking them, and figuring out how they work.
 
----
+I'm mostly into:
+- Software & automation
+- Quantitative finance
+- AI & LLMs
+- Embedded systems
+- Data & analytics
 
-## 🛠️ Cosa faccio & Progetti principali
-Sviluppo soluzioni software che spaziano dal web alla finanza quantitativa:
-* **Datafalco:** Piattaforma SaaS di Business Intelligence e analisi fatture integrata con Fatture in Cloud.
-* **UltraShare:** Sistema di trasferimento file peer-to-peer crittografato basato su WebRTC.
-* **WriteX / Scrybix:** Ambiente di scrittura non lineare a grafo con supporto IA.
-* **Automazione & Finanza:** Agenti di trading multi-LLM e pipeline di document ingestion per la GDO.
+Some things I've been working on:
+- **Game dev** -
+- **Datafalco** - full stack BI & Invoice Analytics
+- **UltraShare** — encrypted peer-to-peer file sharing
+- **WriteX / Scrybix** — nonlinear writing with AI
+- Trading agents, automation pipelines, and other experiments
 
----
+You can find more stuff on my [website](https://federicolelli.com).
 
-## 📱 Trovami sul web
-Oltre a GitHub, puoi seguire i miei progetti e contenuti su:
-* 📸 **Instagram:** [@federicowitz](https://instagram.com)
-* 🧵 **Threads:** [@federicowitz](https://threads.net)
-* 🎥 **YouTube:** [@federicowitz.](https://youtube.com)
-* 💼 **Likedin** [@federicolelli]
-
----
-
-*Human Being. Creo cose.*
-## Hi there 👋
-
-<!--
-**Federicowitz/Federicowitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Human being. I build things.**
