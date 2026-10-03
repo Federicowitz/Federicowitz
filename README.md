@@ -12,7 +12,7 @@ I'm mostly into:
 - Data & analytics
 
 Some things I've been working on:
-- **Game dev** -
+- **Game dev** - PVE PVP multiplayer open world game | beta is coming
 - **Datafalco** - full stack BI & Invoice Analytics
 - **UltraShare** — encrypted peer-to-peer file sharing
 - **WriteX / Scrybix** — nonlinear writing with AI
