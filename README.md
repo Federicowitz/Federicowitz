@@ -14,9 +14,11 @@ I'm mostly into:
 Some things I've been working on:
 - **Game dev** - PVE PVP multiplayer open world game | beta is coming
 - **Datafalco** - full stack BI & Invoice Analytics
-- **UltraShare** — encrypted peer-to-peer file sharing
-- **WriteX / Scrybix** — nonlinear writing with AI
+- **SimpleShare** — encrypted peer-to-peer LAN file sharing
+- **Scrybix** — nonlinear writing
+- **Remandio** - save things like movie, tv shows and everything else you can imagine
 - Trading agents, automation pipelines, and other experiments
+- Working on a social network :) 
 
 You can find more stuff on my [website](https://federicolelli.com).
 
